@@ -1,2 +1,2 @@
-# pierre-feuille-ciseaux
-Petit jeu entierement en javascript prenez du fun surtout😁😁😁
+#pierre-feuille-ciseaux
+Petit jeu entièrement en vanilla javascript prennez du fun surtout😁😁😁
